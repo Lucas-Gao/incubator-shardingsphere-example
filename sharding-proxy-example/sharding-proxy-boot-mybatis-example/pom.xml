@@ -38,5 +38,9 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-aop</artifactId>
         </dependency>
+        <dependency>
+            <groupId>io.shardingsphere</groupId>
+            <artifactId>sharding-transaction-spring</artifactId>
+        </dependency>
     </dependencies>
 </project>
